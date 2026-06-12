@@ -1,0 +1,104 @@
+EVALUACIÓN SISTEMA ALPR — Modelo: pytorch
+=======================================================
+Métrica                               Valor
+--------------------------------------------
+Accuracy (deteccion)                 1.0000
+Precision                            1.0000
+Recall                               1.0000
+F1-Score                             1.0000
+Tasa OCR exitoso                     0.7816
+Tiempo total promedio (ms)           1679.0
+Tiempo deteccion promedio (ms)         42.3
+Tiempo OCR promedio (ms)             1625.5
+--------------------------------------------
+
+DETALLE POR IMAGEN
+Imagen               Det   OCR Texto              IoU
+----------------------------------------------------
+Cars0                 SI    SI JIND KL01CA2555     N/A
+Cars106               SI    NO                    N/A
+Cars111               SI    SI MH 20EE 7598       N/A
+Cars113               SI    SI WASHINGTON MPEACHW F 5     N/A
+Cars115               SI    NO                    N/A
+Cars118               SI    SI 7 JA62 UAR         N/A
+Cars12                SI    SI "Mhizbg            N/A
+Cars120               SI    SI B2228HM            N/A
+Cars125               SI    NO                    N/A
+Cars128               SI    SI AND o65            N/A
+Cars133               SI    SI 6 1268 Tw 72]      N/A
+Cars136               SI    NO                    N/A
+Cars14                SI    SI ALR 486            N/A
+Cars148               SI    NO                    N/A
+Cars149               SI    NO                    N/A
+Cars15                SI    NO                    N/A
+Cars158               SI    SI 695299 CENIROAMERICA     N/A
+Cars161               SI    NO                    N/A
+Cars163               SI    SI LR33 TE            N/A
+Cars164               SI    SI 6 |                N/A
+Cars166               SI    SI l                  N/A
+Cars167               SI    SI Jrl 15-LK-10898     N/A
+Cars168               SI    NO                    N/A
+Cars169               SI    SI ATE Iqu PRIV       N/A
+Cars17                SI    SI 357213             N/A
+Cars172               SI    SI a #C 09            N/A
+Cars18                SI    NO                    N/A
+Cars182               SI    SI VIZLAF             N/A
+Cars183               SI    SI BRIT 0001          N/A
+Cars192               SI    SI J 54 OLC 1         N/A
+Cars20                SI    NO                    N/A
+Cars202               SI    SI D, 47 KWID         N/A
+Cars21                SI    NO                    N/A
+Cars211               SI    SI 4 DUBA / L4S       N/A
+Cars224               SI    SI 0777               N/A
+Cars231               SI    SI GBI8 TCE           N/A
+Cars235               SI    SI 126                N/A
+Cars236               SI    SI B                  N/A
+Cars237               SI    SI n                  N/A
+Cars238               SI    SI 8 M dooooe         N/A
+Cars25                SI    SI BYHN-136           N/A
+Cars254               SI    SI GOTZPOO            N/A
+Cars256               SI    SI 3 Fn6rI@           N/A
+Cars260               SI    SI Iau 5333           N/A
+Cars261               SI    SI  "                 N/A
+Cars274               SI    SI MANSA              N/A
+Cars277               SI    NO                    N/A
+Cars281               SI    SI MH01 DB 0001       N/A
+Cars300               SI    SI E 1708 E732        N/A
+Cars313               SI    SI NBEYOND            N/A
+Cars320               SI    SI Ka-09 Ma 2662      N/A
+Cars322               SI    NO                    N/A
+Cars326               SI    SI DL8cx 48 50        N/A
+Cars34                SI    SI @LZC N 5617        N/A
+Cars345               SI    SI OHG Mooy HEA       N/A
+Cars349               SI    NO                    N/A
+Cars350               SI    NO                    N/A
+Cars351               SI    SI Le LS              N/A
+Cars355               SI    SI Aru BKTP _ 4 665]     N/A
+Cars356               SI    SI Tcnfom<e D cmaPT?     N/A
+Cars357               SI    SI 01 18              N/A
+Cars359               SI    NO                    N/A
+Cars367               SI    SI 2 $ GOOGLE         N/A
+Cars373               SI    SI TN218C6225         N/A
+Cars39                SI    SI HH15BD8877         N/A
+Cars40                SI    SI E 1708 E732        N/A
+Cars400               SI    SI [689 Vsy           N/A
+Cars405               SI    NO                    N/A
+Cars406               SI    SI 6 1268 Tw 72]      N/A
+Cars416               SI    SI 775 TM             N/A
+Cars423               SI    SI P3                 N/A
+Cars424               SI    SI KA 03MG . 2784     N/A
+Cars426               SI    SI CRAIG              N/A
+Cars43                SI    SI Mh205020 Po {on     N/A
+Cars51                SI    SI Yes boss           N/A
+Cars53                SI    SI chio OSE           N/A
+Cars62                SI    SI e                  N/A
+Cars65                SI    SI ODD or INNZE       N/A
+Cars7                 SI    SI YsX213             N/A
+Cars77                SI    NO                    N/A
+Cars80                SI    SI M BAD 231 Jamy     N/A
+Cars83                SI    SI Jaon               N/A
+Cars89                SI    SI L                  N/A
+Cars91                SI    SI 3026102            N/A
+Cars92                SI    SI 8 M dooooe         N/A
+Cars95                SI    SI 8 M dooooe         N/A
+Cars96                SI    SI PG 0 MN112         N/A

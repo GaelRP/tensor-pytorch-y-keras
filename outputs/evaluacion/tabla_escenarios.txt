@@ -1,0 +1,14 @@
+ANÁLISIS DE ESCENARIOS
++------------------------+----------------------+--------------+
+| Escenario              | Detección correcta   | OCR correcto |
++------------------------+----------------------+--------------+
+| Buena iluminacion      | 3/3                  | 3/3          |
+| Baja iluminacion       | 3/3                  | 1/3          |
+| Contraluz              | 3/3                  | 3/3          |
+| Inclinada (15 deg)     | 3/3                  | 2/3          |
+| Imagen borrosa         | 3/3                  | 2/3          |
+| Baja resolucion        | 3/3                  | 2/3          |
+| Con ruido              | 3/3                  | 3/3          |
++------------------------+----------------------+--------------+
+
+Imágenes por escenario: 3

@@ -1,0 +1,17 @@
+# requirements.txt
+# Instalar con: pip install -r requirements.txt
+#
+
+
+# ── Deep Learning (instalar por separado según se necesite) ──────────────────
+tensorflow==2.16.2
+torch==2.3.0
+torchvision==0.18.0
+
+# ── Visión por computadora ────────────────────────────────────────────────────
+opencv-python==4.10.0.84
+easyocr==1.7.1
+
+# ── Datos y utilidades ────────────────────────────────────────────────────────
+numpy==1.26.4
+scikit-learn==1.5.0
